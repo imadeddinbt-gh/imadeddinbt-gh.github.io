@@ -8,7 +8,7 @@ name: عماد الدين
 description: باحث شرعي ومطور برمجيات
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/my-logo.png
+avatar: images/my-logo.png
 
 #
 # Flags below are optional
