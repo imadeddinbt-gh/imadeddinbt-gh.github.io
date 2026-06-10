@@ -1,15 +1,15 @@
 ---
 layout: page
-title: About
+title: عنّي
 permalink: /about/
 ---
 
-Some information about you!
+بعض المعلومات عنك!
 
-### More Information
+### المزيد من المعلومات
 
-A place to include any other types of information that you'd like to include about yourself.
+مكان لإضافة أي أنواع أخرى من المعلومات التي ترغب في تضمينها عن نفسك.
 
-### Contact me
+### تواصل معي
 
 [email@domain.com](mailto:email@domain.com)
